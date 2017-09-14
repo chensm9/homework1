@@ -1,6 +1,6 @@
 
 body{ 
-	background-image: url(../pictrue/silverware.jpg);
+	background-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
 	background-attachment: fixed;
 }
 
@@ -44,5 +44,5 @@ blockquote{
 
 
 ul{
-   	list-style-image: url(../pictrue/pie_icon.gif);
+   	list-style-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif");
 }
