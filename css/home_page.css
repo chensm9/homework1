@@ -59,6 +59,7 @@ div{
 button{
     color: pink;
     background-color: #FF3EFF;
+    font-size: 15pt;
     width: 200px;
     height: 50px;
 }
