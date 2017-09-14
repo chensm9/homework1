@@ -1,65 +1,76 @@
-h1{
-    color: #7A0099;
-   	background-color: #D1BBFF;
-    text-align: center;
-   	font-size: 30pt;
-  	font-weight: bold;
-    font-family: "Century Gothic", "Futura", "Verdana", sans-serif;
-  	letter-spacing: 0.2em;
+
+h1 {
+  color: #7A0099;
+  background-color: #D1BBFF;
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: "Century Gothic", "Futura", "Verdana", sans-serif;
+  letter-spacing: 0.2em;
 }
 
-h2.welcome{
-   	text-align: left;
-   	font-size: 22pt;
-   	font-weight: normal;
-    font-family: "Century Gothic", "Futura", "Verdana", sans-serif;
-    color: #7A0099;
+
+h2.welcome {
+  text-align: left;
+  font-size: 22pt;
+  font-weight: normal;
+  font-family: "Century Gothic", "Futura", "Verdana", sans-serif;
+  font-style: italic;
+  color: #7A0099;
 }
 
-h2.content{
-    color: #A4A400;
-    font-size: 20pt;
-   	font-weight: normal;
-    text-decoration: underline;
-    text-align: center;
-    height: 50px;
+
+h2.content {
+  color: #A4A400;
+  font-size: 20pt;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: center;
+  height: 50px;
 }
 
-p{
-    text-align: center;
-    font-size: 15pt;
-    height: 150px;
+
+p {
+  text-align: center;
+  font-size: 15pt;
+  height: 150px;
 }
 
-body{
-    background-image: url("http://pic.58pic.com/58pic/14/48/50/94H58PICRsZ_1024.jpg");
+
+body {
+  background-image: url("http://pic.58pic.com/58pic/14/48/50/94H58PICRsZ_1024.jpg");
 }
 
-blockquote.title_block{
-    text-align: center;
+
+blockquote.title_block {
+  text-align: center;
 }
 
-img.title_img{
-    width: 220px;
-    height: 200px;
-    border-radius: 100%;
+
+img.title_img {
+  width: 220px;
+  height: 200px;
+  border-radius: 100%;
 }
 
-img.main_img{
-    width: 220px;
-    height: 200px;
-    float: left;
-    border: 8;
+
+img.main_img {
+  width: 220px;
+  height: 200px;
+  float: left;
+  border: 8;
 }
 
-div{
-    text-align: center;
+
+div {
+  text-align: center;
 }
 
-button{
-    color: pink;
-    background-color: #FF3EFF;
-    font-size: 15pt;
-    width: 200px;
-    height: 50px;
+
+button {
+  color: pink;
+  background-color: #FF3EFF;
+  font-size: 15pt;
+  width: 200px;
+  height: 50px;
 }
