@@ -50,7 +50,7 @@ blockquote.title_block {
 img.title_img {
   width: 220px;
   height: 200px;
-  border-radius: 100%;
+  border-radius: 50%;
 }
 
 
@@ -58,7 +58,6 @@ img.main_img {
   width: 220px;
   height: 200px;
   float: left;
-  border: 8;
 }
 
 
